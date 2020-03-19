@@ -31,6 +31,15 @@ processing ..なんだっけ？
 
 
 
+### arduinoのインストール
+
+snap install arduino
+
+aruino ideの文字化け対策
+https://hitoriasobi3.com/mozibake
+
+
+
 ### ファンクションジェネレータを作る
 
 簡単なのでLinuxのシグナルジェネレータで代用
