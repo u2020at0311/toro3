@@ -33,12 +33,17 @@ processing ..なんだっけ？
 
 ### arduinoのインストール
 
+
+#### snapを使う(逆に手間が増える恐れあり)
 snap install arduino
 
 aruino ideの文字化け対策
 https://hitoriasobi3.com/mozibake
 
+#### オフィシャルからダウンロードいてインストールする
 
+https://www.arduino.cc/en/Main/Donate
+の"JUST Download"
 
 ### ファンクションジェネレータを作る
 
